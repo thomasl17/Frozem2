@@ -1,0 +1,39 @@
+body {
+    background-image: url("https://vignette.wikia.nocookie.net/disney/images/1/14/Frozen_II_%2832%29.png/revision/latest?cb=20191126231624&path-prefix=pt-br");
+    background-size: auto 100vh;
+    font-family: Vedana;
+    height: 100vh;
+  }
+  
+  .menu {
+    background-color: white;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a {
+    color: Crimson;
+    text-decoration: none;
+  }
+  
+  a:hover{
+    text-decoration: underline;
+  }
+  
+  .site-title {
+    text-align: center;
+    color: Crimson;
+  }
+  
+  .site-subtitle{
+     text-align: center;
+    color: Crimson;
+   font-style: italic;
+  }
